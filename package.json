@@ -1,0 +1,13 @@
+{
+  "name": "exercise-2-temperature-analyser",
+  "version": "1.0.0",
+  "description": "node.js script that accepts input of temperature data and returns the closest temperature to zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Cameron Boyce",
+  "license": "ISC",
+  "type": "module"
+}
